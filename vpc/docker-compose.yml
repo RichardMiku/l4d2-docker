@@ -1,6 +1,6 @@
 services:
   l4d2server:
-    command: "-secure +exec server.cfg +sv_cheats 1 -port 27015 -tickrate 100"
+    command: "-insecure +exec server.cfg -port 27015 -tickrate 100"
     container_name: l4d2server
     image: registry-vpc.cn-hangzhou.aliyuncs.com/ricimages/l4d2server:latest
     ports:

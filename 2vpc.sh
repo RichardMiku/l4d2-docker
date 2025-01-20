@@ -1,0 +1,1 @@
+docker tag registry.cn-hangzhou.aliyuncs.com/ricimages/l4d2server:latest registry.cn-hangzhou.aliyuncs.com/ricimages/l4d2server:lates registry-vpc.cn-hangzhou.aliyuncs.com/ricimages/l4d2server:latest
